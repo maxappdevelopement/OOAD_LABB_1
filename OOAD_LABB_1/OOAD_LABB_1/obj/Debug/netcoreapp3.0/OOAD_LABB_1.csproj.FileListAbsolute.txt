@@ -1,0 +1,11 @@
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.exe
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.deps.json
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.runtimeconfig.json
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.runtimeconfig.dev.json
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.dll
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\bin\Debug\netcoreapp3.0\OOAD_LABB_1.pdb
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\obj\Debug\netcoreapp3.0\OOAD_LABB_1.csprojAssemblyReference.cache
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\obj\Debug\netcoreapp3.0\OOAD_LABB_1.AssemblyInfoInputs.cache
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\obj\Debug\netcoreapp3.0\OOAD_LABB_1.AssemblyInfo.cs
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\obj\Debug\netcoreapp3.0\OOAD_LABB_1.dll
+C:\Users\maxfr\Developement\OOAD\OOAD_LABB_1\OOAD_LABB_1\obj\Debug\netcoreapp3.0\OOAD_LABB_1.pdb
